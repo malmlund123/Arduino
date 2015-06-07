@@ -1,2 +1,2 @@
 # Arduino
-Private Aurdoino
+General Aurdoino
